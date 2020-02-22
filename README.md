@@ -10,5 +10,5 @@ This project analyze instagram image and recommand you how to compose your photo
 2. Analyze people object pose and recommand
 3. Apply to androids or ios apps
 
-## to-do list
+## To-do list
 
