@@ -1,4 +1,4 @@
-# photo guide
+# Photo Guide
 selfie or people photo guide using YOLO object detection   
 this project analyze instagram image and recommand you how to compose your photograph.
 
