@@ -1,4 +1,4 @@
-# **Photo Guide**
+# **Photo Guide using YOLO**
 
 
 Selfie or people photo guide using YOLO object detection   
